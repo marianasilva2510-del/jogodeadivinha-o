@@ -1,0 +1,14 @@
+print("********************************")
+print("bem vindo ao jogo de adivinhação")
+print("********************************")
+
+numerosecreto = 40
+
+chute = 1put("digite o seu numero: ")
+print("você digitou: " , chute )
+
+chuteNumerico = int(chute)
+
+acertou = chutenumerico = numerosecreto
+maior = chuteNumerico > numerosecreto
+menor = chuteNumerico < numerosecreto
