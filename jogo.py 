@@ -32,8 +32,7 @@ while(totaldetentativas > 0):
     chute = input("Digite o seu número: ")
     print("Você digitou: ", chute )
 
-    chuteNumerico = int(chute)    
-
+   
     if(totaldetentativas == 0):
         print("Você não tem mais tentativas. Fim do jogo.")
         break
